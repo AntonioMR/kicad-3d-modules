@@ -1,0 +1,13 @@
+# Ignorar datasheets de componentes
+*.pdf
+
+# Ignorar ficheros stl
+*.stl
+*.STL
+
+# Ignorar ficheros de wings3D
+*.wings
+
+# Ignorar otros archivos 
+*1
+*~
